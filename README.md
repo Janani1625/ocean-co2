@@ -59,15 +59,15 @@ ocean_intel/
 │   ├── reports.py                  # PDF / CSV / Excel report generation
 │   └── ui.py                       # Reusable UI components (KPI cards, gauges…)
 └── pages/
-    ├── 1_🌍_Global_Ocean_Intelligence.py
-    ├── 2_📊_Analytics.py
-    ├── 3_🎯_Carbon_Prediction.py
-    ├── 4_🔮_Forecast_Center.py
-    ├── 5_⚙️_Model_Performance.py
-    ├── 6_🚨_Alert_Center.py
-    ├── 7_📄_Reports.py
-    ├── 8_🔍_Data_Explorer.py
-    └── 9_⚙️_Settings.py
+    ├── 1_Global_Ocean_Intelligence.py
+    ├── 2_Analytics.py
+    ├── 3_Carbon_Prediction.py
+    ├── 4_Forecast_Center.py
+    ├── 5_Model_Performance.py
+    ├── 6_Alert_Center.py
+    ├── 7_Reports.py
+    ├── 8_Data_Explorer.py
+    └── 9_Settings.py
 ```
 
 ---
