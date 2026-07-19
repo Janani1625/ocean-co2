@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/ocean_data.csv
+models/trained_model.pkl
+models/region_encoder.pkl
+models/model_metrics.json
+.DS_Store
