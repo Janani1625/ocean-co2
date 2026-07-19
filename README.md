@@ -6,7 +6,6 @@ An enterprise-grade Streamlit application for monitoring ocean environmental
 conditions, forecasting carbon concentration with machine learning, detecting
 anomalies, and generating actionable environmental insights.
 
----
 
 ## Features
 
